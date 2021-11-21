@@ -1,0 +1,9 @@
+
+p.outset {
+    
+    border-style: outset;
+    font-size: 70px;
+    background-color: rgb(64, 71, 85);
+    text-align: center
+}
+
